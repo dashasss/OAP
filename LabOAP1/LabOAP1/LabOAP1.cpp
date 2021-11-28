@@ -1,7 +1,7 @@
 ﻿
 
 #include <iostream>
-/* Белодед пидор *\ 
+/* 1245 *\ 
 using namespace std;
 
 
