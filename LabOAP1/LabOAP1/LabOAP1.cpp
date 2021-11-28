@@ -1,6 +1,7 @@
 ﻿
 
 #include <iostream>
+/* Белодед пидор *\ 
 using namespace std;
 
 
